@@ -1,0 +1,165 @@
+Input msg 7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866
+encrypted text  V1+Ch5eAuHdVF9cqaWDATNgFx0hUkkkQWDXQmf8aI3HzXOd+0uLaQsdUrKEUYlE28tQHxvsU4e9e
+2E+pfuPWayCpFfpfghRCK1Nmw6cvgRHI4oBvbDLV+Ee2+GDS2sr/MIZ3jLeOrS/DiGbbBEdRQg61
+YlV1AiK5A1HQhJ3bQefCeffjoPmK59+67pfxSkvz80OA1o/b0guxu6euCTNjucLPjHh6cUBzjvmX
+S++o3qppXnHDHUp/SbMYoZVrXUBQMFW6Q3M0c04he+nN8gC0DuiAIlH0lfluK5s13eOvVyecOuFC
+y0Zk0/2yqgng0L9Vp4gQ9bFUd/BDKIx/N7A/WQ==
+Input msg 7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866
+encrypted text  Zsd5sfZ5UuGOevDPlpAJL2F+nJg52UQPcOeAyCo5QCACAJ2s5soQ3MCj1QxEvUlkai+CbnGQjhF5
+SnhaULOQmzQEkOMOr0csUqyjs83XTTBXTJWEfkIhUWWgb0hELB7tF7VXbAvd/oknrt+vxn/Hba2E
+3cuR7KuE5UpKIS9SK4y7p1I5/hbelRTELyZDFQelvhE7Wl1Gkag1TaAsuUHAycCrhXPsNaQDx2KU
+gB+PvmGp2+J6Z6FkDWImwN6QXGC/ZRrem1K0xbiaKeOUvhj6eQ2VVR9dv+ah3HMyPRi5QJ1iA3Az
+eEBPIKDBP8WW0+gW5K+3ciVyd0nEs7buV3fCxw==
+decrypted text  7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866
+decrypted text  7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866
+Input msg 128
+encrypted text  FaUmf4JSvxfR1dlcY3FBwCaRKGZVfCZ5+HrCHZH4wgDvIZHhMF4Hb5TN9kZhJ9pWqrq7eU71O1cI
+nlYnGZH4ty7mdmoNZ9vf8m15ue+EFD3Bhdty4p2+KkhqQQLO6y8hic9aKZLsWaf1ZCCDME5nFSfM
+imYwrwYgbSe3meNAm1rHOLVO8/gBnqqBeLFj4++/NPY1PZaOkvu9NggtIQ/qhOXAAv1tK7VEM+Ol
+lQYlsel9hriPTZ9cGjr8YnP5TxlFjtrkBdzOF0l365EonWXkOC5OLmG+O7zkBKtStwiAu5UR6ULL
+2QHX7FxQmEmo/XSFXTszWQVzrOlM0uTA8AOeEw==
+decrypted text  128
+Input msg 7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866
+encrypted text  qQA1tqnMExmOm011h+/0TG/UaLSLKKzvhScHP9XmEoT/0M3neMdcszQZ8QEmC1TGFh0bbvxAK310
+FtB+lQ8vUaHdJ90YKY7QpRmXURBl9jLxAE9c/OueSQE7QSjd7wQOYqF9sq8T5FmspxvoRqOgdD6i
+aD7XTJo1TEkVkkxtfjLVL9TgtKQzRYucQHjUOnlNtwBmM1JN8EgoPXfFAdtCYmjl3L6r868Lre0X
+biPzSozcTEde2Uv5gtTTV7pI5JKTD48fnbxcWuyZSay3hBZlpcNeMzpdMf0rr/StJYG7A7sqtwxX
+IobibGHj4hKjasbgIRe4ylcNIbRUOedm5N6m2A==
+decrypted text  7688b6ef52555962d008fff894223582c484517cea7da49ee67800adc7fc8866
+HttpResponse(200 OK,HttpEntity(text/plain,Successfully registered!!),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:56 GMT, Content-Type: text/plain, Content-Length: 25),HTTP/1.1)
+HttpResponse(200 OK,HttpEntity(text/plain,Successfully registered!!),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:56 GMT, Content-Type: text/plain, Content-Length: 25),HTTP/1.1)
+HttpResponse(200 OK,HttpEntity(text/plain,Successfully registered!!),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:56 GMT, Content-Type: text/plain, Content-Length: 25),HTTP/1.1)
+HttpResponse(200 OK,HttpEntity(text/plain,Successfully registered!!),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:56 GMT, Content-Type: text/plain, Content-Length: 25),HTTP/1.1)
+HttpResponse(200 OK,HttpEntity(text/plain,Created a Page for 56 with page ID 128),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:56 GMT, Content-Type: text/plain, Content-Length: 38),HTTP/1.1)
+Friend request submitted to system
+Friend request submitted to system
+Friend request submitted to system
+HttpResponse(200 OK,HttpEntity(text/plain,Subscriber Added 58),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:59 GMT, Content-Type: text/plain, Content-Length: 19),HTTP/1.1)
+HttpResponse(200 OK,HttpEntity(text/plain,Subscriber Added 55),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:59 GMT, Content-Type: text/plain, Content-Length: 19),HTTP/1.1)
+HttpResponse(200 OK,HttpEntity(text/plain,Subscriber Added 57),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:18:59 GMT, Content-Type: text/plain, Content-Length: 19),HTTP/1.1)
+http://localhost:8080/graph/SecureFriendList
+http://localhost:8080/graph/SecureFriendList
+{
+  "friendList": [[55, "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6yfqpKrXndmOMzIpZW9qQjXlCiBzbtke\nEZ1O7n6GW0EBt/B/dHY3peEoxbIa9Sl4Pr9V4eG/P2SLKg5fELNe3MJxADvX+xv1I/3ugDXGheH3\nUOzKC1xAIabob0tsfukNZP+T3xJXRxNPfAKuNzIeiJTD9QUg6dNvdG18258ji7dXTeIPgF5UnLWZ\nIYIbaPUMJfudko3D6kU6bUD31pajMG9JjFuv8X38dc2gn/nV7W79Cd4n5wFok+UAXT8R03yLrk4+\no0XXIkk03Ne2+cibj/js4MQBV8z23r3GktlhvyHlLgNVFqZQ6qw1ARYag7DOEzFWqKZNPb0MJuOn\ncAmUHwIDAQAB"]]
+}
+{
+  "friendList": [[56, "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllyfxqpDRMJsvAZHgz64VCZxQpKGFsyv\nUcCcN2IVv5CcnNzAW7eGZFvfocsOKMniP5ocKwXdAeiHOdOOWd7YPI+fZFjxMOG62SWZkQHgffu+\nX/Ft2YUA9nyZdrc8vOryH0szijv4UfBqNc2Cldaw5ykCX7VSjPGL15OtqDsQpwJ4/NfkMmuIQhOB\nV2pYmz7xV4Yz4Q0ZKYRRCEEovYAF5V/DE5v2ify2QgWLQgNHsuJ3g2XVBa3RmFMmjs+iLvAADLP1\nbtYEHRpYzY6t88HksA4HgekmU6uOIkQ/ExmQry/gYqSLsPS2T0DXT1qiNg8M6t7rxgVakOXAWbCb\nRlm+KQIDAQAB"]]
+}
+Cipher Text generated using AES with CBC mode and PKCS5 Padding is 1xlcEY/OhrG+r6e0Z7wzcop/D0BG1AQ6EeJSKzPN5os=
+Cipher Text generated using AES with CBC mode and PKCS5 Padding is hBdUNpuKp1vFiKGV9eCpBftsoMQc4BK1uuR0FuTtVhs=
+Input msg 5249998eb2bbe3b8cc8b8bebd26ac20b1926fb736ae1286a5bcc4a6fcae017f2
+encrypted text  c/d1olgUVqQG4nuaroC038Wy6FdB8wPg0dV6g6kHurZn2BaJo4pkYkFQ32mcUEyDDla1mnQa8lqa
+HujbjQmwVeneOdKcvs/Vus11d8Rr6h0bObxD2fSZFidQCUqgAU7ZPzkR4CNtW+x1CiUqaCeOnzAx
+1L8Iq8EQnlqCawb+FnF6CREjerkfzUQWc5Ib3hCBENGLN3Q3IXMEsfbRdtN1xyLup/NctipTeroQ
+LwCkfsNC+Tb6E7ZNkQBAVKc85FaNJTTcRE4n8VKOtV8QWdwFH58g0PG8adUC1cE8K2ouM78A0tCU
+AYM0EJH9p4AxAe/P3OGwh5JJRz/amAw0fKG2sw==
+decrypted text  5249998eb2bbe3b8cc8b8bebd26ac20b1926fb736ae1286a5bcc4a6fcae017f2
+Input msg c03edbaf29a38326b26a3e952e895b04a98b6b0d15d6af11da08403fe8bde6ad
+encrypted text  o5pwjYV3/1keH74zEUV/KPaPiXRI7c+jfyFh8dt8EcpzeCCYq37SLS/NRXDtcMpB28mqcsarCvem
+XPxaRmCRJJBj/gSqjs9kfRBQn7Qu+L14y8kMC4WtN00tul4AUIc5k3vyLWmLVCRqHhhruynCqRDt
+DiFC2H0NmntpVe5lgnPfxWrrWRLAyfvP81RtFabf/QB3QZWnNb1QMBNJpEk2RpXJbJx3EUBCJ2j+
+L2KS/seLbX5/M/d8D6ridSiAt5jQSh+iFj+POjmXUtZHklijEva/h2kmyhhvYy8tF20cqG1YO+LM
+nade1ATm3oBg1Ed/XOgvw2QSao4xH6pwmgZzjw==
+decrypted text  c03edbaf29a38326b26a3e952e895b04a98b6b0d15d6af11da08403fe8bde6ad
+Cipher Text generated using AES with CBC mode and PKCS5 Padding is 8jJ6Y8flx0H6al4QblPRoYLkegbHxaKdPIzAhyBjEyQ=
+Input msg b902b8176acaed55db48f3751d5d0c1d3a0788e3370a234a3ecc481f6477d3aa
+encrypted text  lF8Qyv1ABG2twyQzaeEHmkhgwDx+EyxWeNhZiM30qExY91E+Fi5jJJJT5YUY6hxAnb2w/8ciEa39
+N1AKgADJyqzuL4sI+9tco8wLYZgIzeleYhlXSEmy2bw18AAPvhiHNZBrM11i9jbt9iqNvr+p7ZDK
+eLYxu4FDazf1hvptV0fxx9DOmJFKNByjjT/hIPGqLHvqT+MUonY792aeoBK3/aOdQOVgYbvdKG6d
+njR/LhfLoNdQzIr5WHABLry8549tRNQclClm9JgIeYQDefTLBauea+o2IVwdG9WwjQ67KMp7cZ93
+MO+iSYnn6Lw1GsDyCgGwAsUpo+42BmXHvQd3Pw==
+decrypted text  b902b8176acaed55db48f3751d5d0c1d3a0788e3370a234a3ecc481f6477d3aa
+HttpResponse(200 OK,HttpEntity(text/plain,post written to Wall),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:19:14 GMT, Content-Type: text/plain, Content-Length: 20),HTTP/1.1)
+SecureStatusUpdate submitted to system
+SecureStatusUpdate submitted to system
+Input msg 128
+encrypted text  kEjq7rQkr6afsOUv6i5fwG5H6spEJXmQ78V2Qvyk02IVUjAhaGNgK9/QE0teZeYBjI0dZLWPKR7I
+QlIHJUP99le/H7XtLCVPpg6ge7BD1NjGk6RmdPMXUV/m9TvfWJAlOfMVb0k5L3iIUol5Cpr1I/Zu
+W1zewF9tve86mK6YWjZ2Pka0W0Wfnx/Bsbj4EH9WQch2UTrzARSKpRwIqbhVg5LqBDquplS2X29z
+rhexIufOi95YEIcEKacIPRnOBRCwZM0lVWxPc5nsQnG0za75bo4xt+KuAeMn2yOZ0lKDRbLbLLj+
+6Y5bI6FJIKQWzX0Z6iVAHcL8mn6nG19zmkqqWQ==
+decrypted text  128
+56
+----SecureWall of 56 -----
+---------------
+56
+Fri Dec 18 06:19:14 PST 2015
+my name is 56 and my UID is 56.
+---------------
+---------------
+(56,MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAllyfxqpDRMJsvAZHgz64VCZxQpKGFsyv
+UcCcN2IVv5CcnNzAW7eGZFvfocsOKMniP5ocKwXdAeiHOdOOWd7YPI+fZFjxMOG62SWZkQHgffu+
+X/Ft2YUA9nyZdrc8vOryH0szijv4UfBqNc2Cldaw5ykCX7VSjPGL15OtqDsQpwJ4/NfkMmuIQhOB
+V2pYmz7xV4Yz4Q0ZKYRRCEEovYAF5V/DE5v2ify2QgWLQgNHsuJ3g2XVBa3RmFMmjs+iLvAADLP1
+btYEHRpYzY6t88HksA4HgekmU6uOIkQ/ExmQry/gYqSLsPS2T0DXT1qiNg8M6t7rxgVakOXAWbCb
+Rlm+KQIDAQAB)
+55
+Fri Dec 18 06:19:14 PST 2015
+my name is 55 and my UID is 55.
+---------------
+---------------
+55
+Fri Dec 18 06:19:14 PST 2015
+Hi 56 This is 55 on your Wall
+---------------
+Cipher Text generated using AES with CBC mode and PKCS5 Padding is jf2UyS9S/QaFhG/0/fkQQzCKVuU/+oR/NWg7OFWk8Ycp+QLQ1ixqi4GmTHx/4A2N
+Input msg c56b4719d831982dabd7ef9c887b78ff7910dbc13dc276a601012743df760347
+encrypted text  tV3JSXqB1s7qD9/ouhnqPWLRR2pE9GJEpbstkryQH/ch4P9F/x+sOySTMZUVsjZfYZD/gxuVMTwD
+aIRAQgaLyhMvLSyoWPHWBX4SJtu1+9UOoGGC/065YHTWV7GXL/zYZJBfzd9xC2CwJy6I8y+ic0dA
+xwZHWTbtT23FFeHYM+LGVW5haFVc/IqVZKALdXQSBHMlzJ0Xbxe5LiYcBQEFeGh7HZGuTKg1aGTu
+fp2H6LlBLZAzi2tWq5dbnDboqr8AwzScFpHAy/bwJrkVP3ICBCBW6hVQlAWLmO66rV6dzz2TfoTp
+cRWn+IhW6WIFJWctiVkOeJ3fgURwQ9CJ0PHm/A==
+decrypted text  c56b4719d831982dabd7ef9c887b78ff7910dbc13dc276a601012743df760347
+HttpResponse(200 OK,HttpEntity(text/plain,post submitted to page),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:19:34 GMT, Content-Type: text/plain, Content-Length: 22),HTTP/1.1)
+56's page   56 Fri Dec 18 06:18:56 PST 2015
+---------------
+55
+Fri Dec 18 06:19:34 PST 2015
+55 posted to Page 128 started by 56
+---------------
+HttpResponse(200 OK,HttpEntity(text/plain; charset=UTF-8,{
+  "name": "55",
+  "location": "USA",
+  "age": 20,
+  "sex": "Male",
+  "uid": 55,
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6yfqpKrXndmOMzIpZW9qQjXlCiBzbtke\nEZ1O7n6GW0EBt/B/dHY3peEoxbIa9Sl4Pr9V4eG/P2SLKg5fELNe3MJxADvX+xv1I/3ugDXGheH3\nUOzKC1xAIabob0tsfukNZP+T3xJXRxNPfAKuNzIeiJTD9QUg6dNvdG18258ji7dXTeIPgF5UnLWZ\nIYIbaPUMJfudko3D6kU6bUD31pajMG9JjFuv8X38dc2gn/nV7W79Cd4n5wFok+UAXT8R03yLrk4+\no0XXIkk03Ne2+cibj/js4MQBV8z23r3GktlhvyHlLgNVFqZQ6qw1ARYag7DOEzFWqKZNPb0MJuOn\ncAmUHwIDAQAB...),List(Server: spray-can/1.3.3, Date: Fri, 18 Dec 2015 14:19:49 GMT, Content-Type: text/plain; charset=UTF-8, Content-Length: 503),HTTP/1.1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#########################################INPUT##################################################################
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,MILLISECONDS),client55,register(55))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,MILLISECONDS),client56,register(56))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(40,MILLISECONDS),client56,createPage(56,128,"56's page","Security in Social Client by 56"))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,MILLISECONDS),client57,register(57))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,MILLISECONDS),client58,register(58))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(30,MILLISECONDS),client55,frndReq(55,56))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(40,MILLISECONDS),client57,frndReq(57,56))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(50,MILLISECONDS),client58,frndReq(58,56))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,SECONDS),client55,pageSubscription(55,56,128))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,SECONDS),client57,pageSubscription(57,56,128))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(5,SECONDS),client58,pageSubscription(58,56,128))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(10,SECONDS),client56,getFrndList(56))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(10,SECONDS),client55,getFrndList(55))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(20,SECONDS),client55,updateStatus(55,"my name is 55 and my UID is 55."))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(20,SECONDS),client56,updateStatus(56,"my name is 56 and my UID is 56."))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(20,SECONDS),client55,secureWriteOnWall(55,56,"Hi 56 This is 55 on your Wall"))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(30,SECONDS),client56,getSecureWall(56))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(30,SECONDS),client55,getSubscribers(55,56,128))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(40,SECONDS),client55,postToPage(55,56,128,"55 posted to Page 128 started by 56"))
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(50,SECONDS),client56,getSecurePage(128,56,56))//getSecurePage(pageID:Int,ownerID:Int,requestorID:Int)
+       a_sys.scheduler.scheduleOnce(new FiniteDuration(55,SECONDS),client56,getProfile(55))

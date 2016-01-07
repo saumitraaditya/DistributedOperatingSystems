@@ -1,0 +1,293 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/Stop$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/Stop.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/gimmeMoreWork$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/gimmeMoreWork.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/project1$$anonfun$1.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/project1$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/project1.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/result_chunk$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/result_chunk.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/start_mining$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/start_mining.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor$$anonfun$receive$2$$anonfun$applyOrElse$3.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor$$anonfun$receive$2.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/sys_owner$$anonfun$receive$1.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/sys_owner.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/work_chunk$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/work_chunk.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/worker$$anonfun$receive$3$$anonfun$applyOrElse$2.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/worker$$anonfun$receive$3.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/worker.class
+binary dependencies:
+4 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Stop
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Stop$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> gimmeMoreWork
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> gimmeMoreWork$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1$$anonfun$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> result_chunk
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> result_chunk$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> start_mining
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> start_mining$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> supervisor
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> supervisor$$anonfun$receive$2
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> supervisor$$anonfun$receive$2$$anonfun$applyOrElse$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> supervisor$$anonfun$receive$2$$anonfun$applyOrElse$3
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> sys_owner
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> sys_owner$$anonfun$receive$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> work_chunk
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> work_chunk$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> worker
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> worker$$anonfun$receive$3
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> worker$$anonfun$receive$3$$anonfun$applyOrElse$2
+used names:
+145 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> !
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> &&
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> +
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> +=
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> <
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> <init>
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ==
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> A1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> AbstractFunction1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> AbstractFunction3
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Actor
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ActorLogging
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ActorRef
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ActorSystem
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> AnyRef
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Array
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ArrayBuffer
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> B1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ClassTag
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> DigestUtils
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> DurationInt
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Function1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Int
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Integer
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ListWorkers
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Listener
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> MessageDigest
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> None
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> NumberFormatException
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> PoisonPill
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Predef
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Product
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Props
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> R_string
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Random
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> RandomString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Results
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Runtime
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ScalaRunTime
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Serializable
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Start_Seed
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Start_Seed_=
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Statics
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Stop
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> String
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Unit
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> _hashCode
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> _toString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> actor
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> actorOf
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> actorRef2Scala
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> actor_system
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> akka
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> alphanumeric
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> apache
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> append
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> apply
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> args
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> asInstanceOf
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> augmentString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> availableProcessors
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> cmp_val
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> codec
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> collection
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> commons
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> concurrent
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> context
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> digest
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> dispatcher
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> duration
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> eq
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> finalizeHash
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> foreach
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> getRuntime
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> gimmeMoreWork
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> hexString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> i
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> inputString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> intWrapper
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> isInstanceOf
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> java
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> lang
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> length
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> main
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> materializeClassTag
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> milliseconds
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> mix
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> mkString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> mutable
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ne
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> numCoins
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> numZeroes
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> numZeros
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> num_workers
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> num_zeroes
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> org
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> package
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> parseInt
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> part_result
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> println
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> qual$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> qual$2
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> qual$3
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> result_chunk
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> runtime
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> scala
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> scheduleOnce
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> scheduler
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> security
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> seed
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> self
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> sender
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> sha256Hex
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> shutdown
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> start_mining
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> start_seed
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> substring
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> supervisor
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> sys_owner
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> system
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> take
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> toInt
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> toString
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> typedProductIterator
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ufid
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> unchecked
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> until
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> util
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> w
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> work_chunk
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> worker
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$10
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$11
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$12
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$2
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$3
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$4
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$5
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$6
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$7
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$8
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> x$9
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> ||
+product stamps:
+22 items
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/Stop$.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/Stop.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/gimmeMoreWork$.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/gimmeMoreWork.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/project1$$anonfun$1.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/project1$.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/project1.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/result_chunk$.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/result_chunk.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/start_mining$.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/start_mining.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor$$anonfun$receive$2$$anonfun$applyOrElse$3.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor$$anonfun$receive$2.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/supervisor.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/sys_owner$$anonfun$receive$1.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/sys_owner.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/work_chunk$.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/work_chunk.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/worker$$anonfun$receive$3$$anonfun$applyOrElse$2.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/worker$$anonfun$receive$3.class -> lastModified(1442176753000)
+/home/sam/ScalaProjects/BitCoinMiner/target/scala-2.11/classes/worker.class -> lastModified(1442176753000)
+source stamps:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> hash(a56416d10ce8694f1d443d58a249082b50ea373f)
+binary stamps:
+4 items
+/home/sam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar -> lastModified(1441289555000)
+/home/sam/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar -> lastModified(1415598733000)
+/home/sam/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1437726344000)
+class names:
+4 items
+/home/sam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar -> akka.actor.Actor
+/home/sam/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar -> org.apache.commons.codec.digest.DigestUtils
+/home/sam/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDapkVDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZHrNf3QABHNlbGZzcQB+AAtmWrPCdAAHY29udGV4dHVxAH4ACQAAAEJzcQB+AAvKyacQdAAGbm90aWZ5c3EAfgAL9UxRlXQAB1JlY2VpdmVzcQB+AAsKqhITdAAEd2FpdHNxAH4AC0KBeSZ0AApudW1femVyb2Vzc3EAfgALxW5PLHQADmNvcHkkZGVmYXVsdCQyc3EAfgALXEkIn3QADSRhc0luc3RhbmNlT2ZzcQB+AAsGISxadAAEdWZpZHNxAH4AC3tyCbd0AARzZWVkc3EAfgALTArE23QADWdpbW1lTW9yZVdvcmtzcQB+AAsS7L0GdAAMcHJvZHVjdEFyaXR5c3EAfgAL45xGY3QABmVxdWFsc3NxAH4AC7QFkTR0AAtudW1fd29ya2Vyc3NxAH4AC4MqSz50AAxhc0luc3RhbmNlT2ZzcQB+AAvTgcVLdAAMc3luY2hyb25pemVkc3EAfgAL1bb0XnQADSRpc0luc3RhbmNlT2ZzcQB+AAuZzeSNdAAHcmVjZWl2ZXNxAH4AC9E42jV0AApTdGFydF9TZWVkc3EAfgALqaOoDXQACnByZVJlc3RhcnRzcQB+AAtc5uKOdAANYXJvdW5kUmVjZWl2ZXNxAH4AC8RnzJF0AAhjYW5FcXVhbHNxAH4AC1wz3Ht0AAtwb3N0UmVzdGFydHNxAH4AC2J8OwN0AAludW1aZXJvZXNzcQB+AAsxbUMjdAAEbWFpbnNxAH4AC/H97ch0AAhwb3N0U3RvcHNxAH4AC5/ZqU90AA1wcm9kdWN0UHJlZml4c3EAfgALsXMjEHQACnN0YXJ0X3NlZWRzcQB+AAucNIUddAAJbm90aWZ5QWxsc3EAfgALmqBivnQAC3JlYWRSZXNvbHZlc3EAfgALhaSMLnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALfplk5nQADGlzSW5zdGFuY2VPZnNxAH4AC0V49XB0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL63TennQADmFyb3VuZFBvc3RTdG9wc3EAfgALpFJG5nQAB1Jlc3VsdHNzcQB+AAsgDdn+dAAGPGluaXQ+c3EAfgALSMse83QACndvcmtfY2h1bmtzcQB+AAuQF7SudAAMc3RhcnRfbWluaW5nc3EAfgALdiK0Q3QACHByZVN0YXJ0c3EAfgALNl5/m3QAC0xpc3RXb3JrZXJzc3EAfgAL/bKUIXQACXVuaGFuZGxlZHNxAH4AC3RWi7t0AAxyZXN1bHRfY2h1bmtzcQB+AAtBqGQ/dAACPT1zcQB+AAtp1HyTdAAFY2xvbmVzcQB+AAvNefo2dAAMUmFuZG9tU3RyaW5nc3EAfgALxFQ44XQADmNvcHkkZGVmYXVsdCQzc3EAfgAL1fRIM3QABGNvcHlzcQB+AAsm7JZxdAAKc3VwZXJ2aXNvcnNxAH4AC1UKdNh0AAlzeXNfb3duZXJzcQB+AAsD2lYSdAAGc2VuZGVyc3EAfgALDr4WtXQACHRvU3RyaW5nc3EAfgALlA2rk3QACG51bUNvaW5zc3EAfgALbJRiM3QACHByb2plY3Qxc3EAfgALTGkVBnQAAiE9c3EAfgALvlK9CXQACGdldENsYXNzc3EAfgALN774SXQADmNvcHkkZGVmYXVsdCQxc3EAfgALlC8em3QAC3BhcnRfcmVzdWx0c3EAfgALIpxIanQABFN0b3BzcQB+AAsVwmlIdAACbmVzcQB+AAuaOVHNdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALGzg7qXQAAmVxc3EAfgAL5F/oSXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACwkHaXx0AAIjI3NxAH4ACyt4wTV0AAhmaW5hbGl6ZXNxAH4AC0UfYxV0AA5wcm9kdWN0RWxlbWVudHNxAH4AC5ESnvF0AAhoYXNoQ29kZXNxAH4ACz7waCh0AA5hcm91bmRQcmVTdGFydHNxAH4ACyy2WyF0AAZ3b3JrZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAJc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AFd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALd4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALYAcHNxAH4Au3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCfTAAJaW5oZXJpdGVkcQB+AJ9MAAdwYXJlbnRzcQB+AJ94cQB+AL9zcQB+ALYAcHNxAH4Au3VxAH4AmgAAAABzcQB+ALYAcHNxAH4Au3VxAH4AmgAAAABzcQB+ALYAcHNxAH4Au3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvnQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW5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
+external apis:
+0 items
+source infos:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> 
+AAAACAAAAQAAADEAGiAgICAgY2FzZSBnaW1tZU1vcmVXb3JrPT57AQAABoEBAAAACgEACiAgICAgICAgICABAEIvaG9tZS9zYW0vU2NhbGFQcm9qZWN0cy9CaXRDb2luTWluZXIvc3JjL21haW4vc2NhbGEvcHJvamVjdDEuc2NhbGEBAEIvaG9tZS9zYW0vU2NhbGFQcm9qZWN0cy9CaXRDb2luTWluZXIvc3JjL21haW4vc2NhbGEvcHJvamVjdDEuc2NhbGEAunBhdHRlcm5zIGFmdGVyIGEgdmFyaWFibGUgcGF0dGVybiBjYW5ub3QgbWF0Y2ggKFNMUyA4LjEuMSkKSWYgeW91IGludGVuZGVkIHRvIG1hdGNoIGFnYWluc3Qgb2JqZWN0IGdpbW1lTW9yZVdvcmsgaW4gcGFja2FnZSA8ZW1wdHk+LCB5b3UgbXVzdCB1c2UgYmFja3RpY2tzLCBsaWtlOiBjYXNlIGBnaW1tZU1vcmVXb3JrYCA9PgEAAAEAAAA4ACIgICAgICAgUmVzdWx0cy5hcHBlbmQocGFydF9yZXN1bHQpAQAAB1oBAAAAFQEAFSAgICAgICAgICAgICAgICAgICAgIAEAQi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci9zcmMvbWFpbi9zY2FsYS9wcm9qZWN0MS5zY2FsYQEAQi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci9zcmMvbWFpbi9zY2FsYS9wcm9qZWN0MS5zY2FsYQBDdW5yZWFjaGFibGUgY29kZSBkdWUgdG8gdmFyaWFibGUgcGF0dGVybiAnZ2ltbWVNb3JlV29yaycgb24gbGluZSA0OQEAAAEAAAA7ABEgICAgIGNhc2UgU3RvcD0+ewEAAAeHAQAAABABABAgICAgICAgICAgICAgICAgAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhAEN1bnJlYWNoYWJsZSBjb2RlIGR1ZSB0byB2YXJpYWJsZSBwYXR0ZXJuICdnaW1tZU1vcmVXb3JrJyBvbiBsaW5lIDQ5AQAAAQAAADgAIiAgICAgICBSZXN1bHRzLmFwcGVuZChwYXJ0X3Jlc3VsdCkBAAAHWgEAAAAVAQAVICAgICAgICAgICAgICAgICAgICAgAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhABB1bnJlYWNoYWJsZSBjb2RlAQAAAQAAADEAGiAgICAgY2FzZSBnaW1tZU1vcmVXb3JrPT57AQAABoEBAAAACgEACiAgICAgICAgICABAEIvaG9tZS9zYW0vU2NhbGFQcm9qZWN0cy9CaXRDb2luTWluZXIvc3JjL21haW4vc2NhbGEvcHJvamVjdDEuc2NhbGEBAEIvaG9tZS9zYW0vU2NhbGFQcm9qZWN0cy9CaXRDb2luTWluZXIvc3JjL21haW4vc2NhbGEvcHJvamVjdDEuc2NhbGEAunBhdHRlcm5zIGFmdGVyIGEgdmFyaWFibGUgcGF0dGVybiBjYW5ub3QgbWF0Y2ggKFNMUyA4LjEuMSkKSWYgeW91IGludGVuZGVkIHRvIG1hdGNoIGFnYWluc3Qgb2JqZWN0IGdpbW1lTW9yZVdvcmsgaW4gcGFja2FnZSA8ZW1wdHk+LCB5b3UgbXVzdCB1c2UgYmFja3RpY2tzLCBsaWtlOiBjYXNlIGBnaW1tZU1vcmVXb3JrYCA9PgEAAAEAAAA4ACIgICAgICAgUmVzdWx0cy5hcHBlbmQocGFydF9yZXN1bHQpAQAAB1oBAAAAFQEAFSAgICAgICAgICAgICAgICAgICAgIAEAQi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci9zcmMvbWFpbi9zY2FsYS9wcm9qZWN0MS5zY2FsYQEAQi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci9zcmMvbWFpbi9zY2FsYS9wcm9qZWN0MS5zY2FsYQBDdW5yZWFjaGFibGUgY29kZSBkdWUgdG8gdmFyaWFibGUgcGF0dGVybiAnZ2ltbWVNb3JlV29yaycgb24gbGluZSA0OQEAAAEAAAA7ABEgICAgIGNhc2UgU3RvcD0+ewEAAAeHAQAAABABABAgICAgICAgICAgICAgICAgAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhAEN1bnJlYWNoYWJsZSBjb2RlIGR1ZSB0byB2YXJpYWJsZSBwYXR0ZXJuICdnaW1tZU1vcmVXb3JrJyBvbiBsaW5lIDQ5AQAAAQAAADgAIiAgICAgICBSZXN1bHRzLmFwcGVuZChwYXJ0X3Jlc3VsdCkBAAAHWgEAAAAVAQAVICAgICAgICAgICAgICAgICAgICAgAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhAQBCL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL3NyYy9tYWluL3NjYWxhL3Byb2plY3QxLnNjYWxhABB1bnJlYWNoYWJsZSBjb2RlAQAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8QzGTJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8UGB1h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8UJu4F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8eNlRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8huv8p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

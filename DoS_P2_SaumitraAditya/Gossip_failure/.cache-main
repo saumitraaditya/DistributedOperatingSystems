@@ -1,0 +1,128 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala -> /home/sam/ScalaProjects/BitCoinMiner/bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> /home/sam/ScalaIDE/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+15 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/BarTender$$anonfun$receive$1.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/BarTender.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/EmptyPint$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/EmptyPint.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/FullPint$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/FullPint.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/Person$$anonfun$receive$2.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/Person.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/Ticket$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/Ticket.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/project1$$anonfun$1.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/project1$$anonfun$2.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/project1$.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/project1$delayedInit$body.class
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaProjects/BitCoinMiner/bin/project1.class
+binary dependencies:
+3 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /home/sam/ScalaIDE/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> BarTender
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> BarTender$$anonfun$receive$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> EmptyPint
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> EmptyPint$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> FullPint
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> FullPint$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Person
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Person$$anonfun$receive$2
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Ticket
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> Ticket$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1$
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1$$anonfun$1
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1$$anonfun$2
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> project1$delayedInit$body
+used names:
+0 items
+product stamps:
+15 items
+/home/sam/ScalaProjects/BitCoinMiner/bin/BarTender$$anonfun$receive$1.class -> lastModified(1442106153000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/BarTender.class -> lastModified(1442106153000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/EmptyPint$.class -> lastModified(1442106153000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/EmptyPint.class -> lastModified(1442106153000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/FullPint$.class -> lastModified(1442106153000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/FullPint.class -> lastModified(1442106153000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/Person$$anonfun$receive$2.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/Person.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/Ticket$.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/Ticket.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/project1$$anonfun$1.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/project1$$anonfun$2.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/project1$.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/project1$delayedInit$body.class -> lastModified(1442106154000)
+/home/sam/ScalaProjects/BitCoinMiner/bin/project1.class -> lastModified(1442106154000)
+source stamps:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> hash(1536018104e219eec1b80cce3abf22899a576c9b)
+binary stamps:
+3 items
+/home/sam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar -> lastModified(1441289555000)
+/home/sam/ScalaIDE/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1437996554000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1437726344000)
+class names:
+3 items
+/home/sam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar -> akka.actor.Actor
+/home/sam/ScalaIDE/eclipse/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Product
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.io.Serializable
+internal apis:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCPoy9FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAGVGlja2V0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AL3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ALgBwc3EAfgAzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AN3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXIAEVtMeHNidGk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hbWVxAH4AHEwABXZhbHVlcQB+ABx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AR3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3EAfgBWcQB+AFhzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcQB+AEd0AARVbml0cQB+ATx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4AHEwAA3RwZXEAfgEteHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgApdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBIWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA2c3EAfgBHdAAFQXJyYXlxAH4BPHVxAH4ARQAAAAFzcQB+AEd0AAZTdHJpbmdzcQB+AEtzcQB+AE51cQB+AFEAAAADc3EAfgBTcQB+AF5zcQB+AFNxAH4AbHEAfgBYc3EAfgAuAHBzcQB+ADN1cQB+AEUAAAAEc3EAfgBHdAADQXBwcQB+ATxzcQB+AEd0AAtEZWxheWVkSW5pdHEAfgE8c3EAfgBHcQB+AGZxAH4BW3NxAH4AR3EAfgBucQB+ATx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8Q5gsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAAoL2hvbWUvc2FtL1NjYWxhUHJvamVjdHMvQml0Q29pbk1pbmVyL2JpbnQAMy9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci9zcmMvbWFpbi9zY2FsYXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFTYBgQTiGe7BuAzOOr8iiZpXbJs=
+external apis:
+0 items
+source infos:
+1 items
+/home/sam/ScalaProjects/BitCoinMiner/src/main/scala/project1.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8Q5gsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKC9ob21lL3NhbS9TY2FsYVByb2plY3RzL0JpdENvaW5NaW5lci9iaW50ADMvaG9tZS9zYW0vU2NhbGFQcm9qZWN0cy9CaXRDb2luTWluZXIvc3JjL21haW4vc2NhbGE=

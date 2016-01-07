@@ -1,0 +1,265 @@
+The network will take 30 <stabilize_time> seconds to stabilize, you might have to tweak it if your network is too large.
+*******FT******** 2 *************
+PRED 15 SUCC 4
+*******FT******** 5 *************
+PRED 4 SUCC 6
+*******FT******** 14 *************
+PRED 13 SUCC 15
+*******FT******** 4 *************
+PRED 2 SUCC 5
+*******FT******** 13 *************
+PRED 12 SUCC 14
+*******FT******** 10 *************
+PRED 9 SUCC 12
+*******FT******** 9 *************
+PRED 6 SUCC 10
+*******FT******** 12 *************
+PRED 10 SUCC 13
+*******FT******** 6 *************
+PRED 5 SUCC 9
+*******FT******** 15 *************
+PRED 14 SUCC 2
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 2 from 9 at 15
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 4 from 14 at 14
+**** Routing MSG to ***** 4 from 14 at 2
+**** Routing MSG to ***** 9 from 2 at 2
+**** Routing MSG to ***** 10 from 13 at 13
+**** Routing MSG to ***** 3 from 15 at 15
+**** Routing MSG to ***** 13 from 4 at 4
+**** Routing MSG to ***** 10 from 13 at 5
+**** Routing MSG to ***** 13 from 4 at 12
+**** Routing MSG to ***** 3 from 15 at 2
+**** Routing MSG to ***** 9 from 2 at 6
+**** Routing MSG to ***** 10 from 13 at 9
+**** Routing MSG to ***** 12 from 6 at 6
+**** Routing MSG to ***** 12 from 6 at 10
+**** Routing MSG to ***** 9 from 5 at 5
+**** Routing MSG to ***** 7 from 12 at 12
+**** Routing MSG to ***** 9 from 5 at 6
+**** Routing MSG to ***** 9 from 10 at 10
+**** Routing MSG to ***** 2 from 9 at 9
+**** Routing MSG to ***** 7 from 12 at 4
+**** Routing MSG to ***** 9 from 10 at 2
+**** Routing MSG to ***** 7 from 12 at 6
+**** Routing MSG to ***** 9 from 10 at 6
+**** Routing MSG to ***** 2 from 9 at 13
+**** Routing MSG to ***** 2 from 9 at 15
+--------------------FINISH-------------------
+Avg hops per msg is 2
+[INFO] [10/25/2015 17:51:42.519] [ChordNetwork-akka.actor.default-dispatcher-7] [akka://ChordNetwork/user/2] Message [stabilize] from Actor[akka://ChordNetwork/user/2#1518035722] to Actor[akka://ChordNetwork/user/2#1518035722] was not delivered. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+

@@ -1,0 +1,24 @@
+exit 
+compile
+run
+exit
+compile
+exit
+compile
+exit
+compile
+exit
+compile
+run
+exit
+compile
+exit
+compile
+exit
+compile
+run 172.31.0.101:8080
+run
+cd ..
+exit
+compile
+run 172.31.0.100:8000
