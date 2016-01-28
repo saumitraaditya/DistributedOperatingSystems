@@ -1,0 +1,67 @@
+
+
+https://gist.github.com/osipov/c2a34884a647c29765ed
+
+http://doc.akka.io/docs/akka/2.0/intro/getting-started-first-scala.html
+
+http://www.scala-sbt.org/0.13/tutorial/Activator-Installation.html
+
+http://stackoverflow.com/questions/24687698/how-to-use-sbt-eclipse-to-create-eclipse-project-files-of-a-project
+
+https://github.com/sevenfrost/dos/blob/master/Master/build.sbt
+
+http://mvnrepository.com/artifact/commons-codec/commons-codec/1.10
+
+http://ask.systutorials.com/615/random-string-password-generator-in-scala
+
+http://alvinalexander.com/scala/simple-akka-actors-remote-example
+
+http://blog.madhukaraphatak.com/simple-akka-remote-example/
+
+http://doc.akka.io/docs/akka/snapshot/general/remoting.html#symmetric-communication
+
+https://groups.google.com/forum/#!topic/akka-user/J4IvabpuV6k
+
+http://alvinalexander.com/scala/how-to-run-scala-application-jar-files-set-classpath
+
+https://dzone.com/articles/akka-notes-actorsystem
+
+http://doc.akka.io/docs/akka/2.3.4/scala/scheduler.html
+
+################################################################################
+Project
+################################################################################
+http://blog.knoldus.com/2013/01/12/akka-futures-in-scala-with-a-simple-example/
+
+https://dzone.com/articles/spray-json-and-adts
+
+https://github.com/spray/spray-json
+
+https://gagnechris.wordpress.com/2013/09/15/building-restful-apis-with-scala-using-spray/
+
+http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/
+
+http://sysgears.com/articles/building-rest-service-with-scala/
+
+http://engineering.monsanto.com/2015/11/12/simple-spray-part-2/
+
+http://mukis.de/pages/future-composition-with-scala-and-akka/
+
+http://www.cakesolutions.net/teamblogs/2012/11/30/spray-json-and-adts
+
+http://kamon.io/teamblog/2014/11/02/understanding-spray-client-timeout-settings/
+
+http://engineering.monsanto.com/2015/08/11/simple-spray/
+
+/*
+ * Links
+ * http://stackoverflow.com/questions/22900570/key-from-string-in-java-rsa
+ * http://pastebin.com/TEpMBJK5
+ * http://www.javamex.com/tutorials/cryptography/rsa_encryption_2.shtml
+ * http://www.javamex.com/tutorials/cryptography/rsa_encryption.shtml
+ * http://stackoverflow.com/questions/28809225/send-rsa-public-key-in-java-to-php-server
+ * http://www.javamex.com/tutorials/cryptography/rsa_encryption.shtml
+ * http://stackoverflow.com/questions/29396164/retrieving-rsa-modulus-and-exponent-from-byte-array
+ * https://javadigest.wordpress.com/2012/08/26/rsa-encryption-example/
+http://stackoverflow.com/questions/9658921/encrypting-aes-key-with-rsa-public-key
+ * */
